@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/soumyadeep/Desktop/mlFlow%20Starter/2-mlproject/mlruns/751395931807324820/8a4e5f667d514583ae071c9e70dc75b2/artifacts
+end_time: 1745103361332
+entry_point_name: ''
+experiment_id: '751395931807324820'
+lifecycle_stage: active
+run_id: 8a4e5f667d514583ae071c9e70dc75b2
+run_name: likeable-rat-997
+run_uuid: 8a4e5f667d514583ae071c9e70dc75b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745103361299
+status: 4
+tags: []
+user_id: soumyadeep

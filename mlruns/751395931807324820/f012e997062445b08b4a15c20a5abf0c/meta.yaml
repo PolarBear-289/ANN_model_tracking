@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/soumyadeep/Desktop/mlFlow%20Starter/2-mlproject/mlruns/751395931807324820/f012e997062445b08b4a15c20a5abf0c/artifacts
+end_time: 1745103567652
+entry_point_name: ''
+experiment_id: '751395931807324820'
+lifecycle_stage: active
+run_id: f012e997062445b08b4a15c20a5abf0c
+run_name: carefree-sloth-834
+run_uuid: f012e997062445b08b4a15c20a5abf0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745103521954
+status: 3
+tags: []
+user_id: soumyadeep

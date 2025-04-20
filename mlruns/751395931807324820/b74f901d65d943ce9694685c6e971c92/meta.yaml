@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/soumyadeep/Desktop/mlFlow%20Starter/2-mlproject/mlruns/751395931807324820/b74f901d65d943ce9694685c6e971c92/artifacts
+end_time: 1745103347095
+entry_point_name: ''
+experiment_id: '751395931807324820'
+lifecycle_stage: active
+run_id: b74f901d65d943ce9694685c6e971c92
+run_name: rare-shad-770
+run_uuid: b74f901d65d943ce9694685c6e971c92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745103347057
+status: 4
+tags: []
+user_id: soumyadeep
